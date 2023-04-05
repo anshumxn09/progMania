@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: url('https://th.bing.com/th/id/R.1ad9615cf11af440adbc02644aa52d30?rik=R8dyRDZc4Yks%2fQ&riu=http%3a%2f%2f31.media.tumblr.com%2f994de0f6d0f8fe4e44c9d8afbf74606e%2ftumblr_nhsqnhRfUj1u79o2lo1_1280.gif&ehk=a5%2bXOeNujaBjNCd8vDMSBvOFuagoUXFZGgf9pL%2bVmNc%3d&risl=&pid=ImgRaw&r=0');
+}
+.__title{
+
+    width: 100vw;
+    background: url('https://wallpaperaccess.com/full/1102024.jpg');
+    text-align: center;
+    height: 10vh;
+    color: whitesmoke;
+    padding-top: 20px;
+    background-color: purple;
+    border:  2px inset black;
+}
+tr:hover{
+    background-color:mistyrose;
+    color: black;
+}
+td:hover{
+    font-weight: bold;
+}

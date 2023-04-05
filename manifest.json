@@ -1,0 +1,23 @@
+{
+    "name" : "Programming Mania",
+    "short_name" : "ProgMania",
+    "start_url" : "./index.html",
+    "display" : "standalone",
+    "background_color" : "#FFE9D2",
+    "theme-color" : "#FFE9D2",
+    "orientation" : "portrait-primary",
+    "icons" : [
+        {
+            "src" : "onefourfour2.png",
+            "type" : "image/png",
+            "sizes" : "144x144",
+            "purpose" : "any"
+        },
+        {
+            "src": "fiveonetwo.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "maskable"
+        }
+    ]
+}
